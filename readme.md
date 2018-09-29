@@ -1,6 +1,6 @@
 ﻿# C# Class Örneği!
 
-Merhaba **C# Class Örneği** adlı eğitim görselinde class yapısından bahsettik. Videoda geçen bütün kodlar buradadır.
+Merhaba **C# Class Örneği** adlı eğitim görselinde class yapısından bahsettik. Videoda geçen class kodları buradadır.
 
 
 ## Takip Etmeyi Unutmayın!
